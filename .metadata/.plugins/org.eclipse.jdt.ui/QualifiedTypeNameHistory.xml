@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="programming.practice.strategy.RedHeadDuck"/>
+    <fullyQualifiedTypeName name="programming.practice.plantszombie.product.DoAttack"/>
+    <fullyQualifiedTypeName name="programming.practice.plantszombie.product.Attack"/>
+    <fullyQualifiedTypeName name="programming.practice.plantszombie.product.Make"/>
+    <fullyQualifiedTypeName name="programming.practice.factory.Pizza"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.math.RoundingMode"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.AfterAll"/>
+    <fullyQualifiedTypeName name="org.junit.platform.runner.JUnitPlatform"/>
+    <fullyQualifiedTypeName name="org.junit.runner.RunWith"/>
+    <fullyQualifiedTypeName name="org.junit.platform.suite.api.SelectPackages"/>
+    <fullyQualifiedTypeName name="java.math.BigDecimal"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="kr.ac.woosuk.testdouble.UserMockitoTester"/>
+    <fullyQualifiedTypeName name="kr.ac.woosuk.testdouble.ICoupon"/>
+    <fullyQualifiedTypeName name="kr.ac.woosuk.CipherMock"/>
+    <fullyQualifiedTypeName name="org.junit.jupiter.api.Test"/>
+    <fullyQualifiedTypeName name="org.mockito.Mock"/>
+    <fullyQualifiedTypeName name="org.mockito.Mockito"/>
+    <fullyQualifiedTypeName name="java.awt.List"/>
+    <fullyQualifiedTypeName name="java.io.PrintStream"/>
+    <fullyQualifiedTypeName name="kr.ac.woosuk.Calc"/>
+</qualifiedTypeNameHistroy>

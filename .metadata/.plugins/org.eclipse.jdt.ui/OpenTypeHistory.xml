@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=DesignPatterns/src&lt;programming.practice.strategy{Duck.java[Duck" modifiers="1025" timestamp="1633998729170"/>
+    <typeInfo handle="=DesignPatterns/src&lt;programming.practice.strategy.behavior{Quackable.java[Quackable" modifiers="513" timestamp="1633568532694"/>
+    <typeInfo handle="=DesignPatterns/src&lt;programming.practice.strategy.behavior{Flyable.java[Flyable" modifiers="513" timestamp="1633568532680"/>
+    <typeInfo handle="=DesignPatterns/src&lt;programming.practice.strategy.behavior{Swimable.java[Swimable" modifiers="513" timestamp="1633568532582"/>
+    <typeInfo handle="=DesignPatterns/src&lt;programming.practice.plantszombie{Plant.java[Plant" modifiers="1025" timestamp="1634587494819"/>
+    <typeInfo handle="=DesignPatterns/src&lt;programming.practice.plantszombie.product{DoMake.java[DoMake" modifiers="513" timestamp="1634587494719"/>
+    <typeInfo handle="=DesignPatterns/src&lt;programming.practice.plantszombie.product{DoDefense.java[DoDefense" modifiers="513" timestamp="1634587494743"/>
+    <typeInfo handle="=DesignPatterns/src&lt;programming.practice.plantszombie.product{DoAttack.java[DoAttack" modifiers="513" timestamp="1634587494736"/>
+    <typeInfo handle="=DesignPatterns/C:\/Users\/ron11\/Desktop\/eclipse\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_15.0.1.v20201027-0507\/jre\/lib\/jrt-fs.jar`java.security.jgss=/module=/true=/=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/15\/docs\/api\/=/&lt;sun.security.jgss.spi(MechanismFactory.class[MechanismFactory" modifiers="1537" timestamp="1615184686711"/>
+    <typeInfo handle="=DesignPatterns/src&lt;programming.practice.abstractfactory{MenuFactory.java[MenuFactory" modifiers="513" timestamp="1634607602654"/>
+    <typeInfo handle="=DesignPatterns/src&lt;programming.practice.factorymethod{PizzaStore.java[PizzaStore" modifiers="1025" timestamp="1634172266816"/>
+    <typeInfo handle="=DesignPatterns/src&lt;programming.practice.abstractfactory{PizzaStore.java[PizzaStore" modifiers="1025" timestamp="1634607602705"/>
+    <typeInfo handle="=DesignPatterns/src&lt;programming.practice.plantszombie.simple{Plant.java[Plant" modifiers="1025" timestamp="1634608187947"/>
+    <typeInfo handle="=DesignPatterns/src&lt;programming.practice.abstractfactory{Beverage.java[Beverage" modifiers="1025" timestamp="1634607602667"/>
+    <typeInfo handle="=DesignPatterns/src&lt;programming.practice.decorator{Beverage.java[Beverage" modifiers="1025" timestamp="1636473153578"/>
+    <typeInfo handle="=DesignPatterns/src&lt;programming.practice.decorator{CondimentDecorator.java[CondimentDecorator" modifiers="1025" timestamp="1636473154841"/>
+    <typeInfo handle="=DesignPatterns/src&lt;programming.practice.plantszombie.decorator{Decorator.java[Decorator" modifiers="1025" timestamp="1636520057101"/>
+    <typeInfo handle="=UnitTest/src\/main\/java&lt;kr.ac.woosuk.testdouble{ICoupon.java[ICoupon" modifiers="513" timestamp="1637802187377"/>
+</typeInfoHistroy>

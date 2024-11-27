@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="lib" path="C:/Users/ron11/Desktop/프로그래밍연습/mock_libs/apiguardian-api-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ron11/Desktop/프로그래밍연습/mock_libs/byte-buddy-1.10.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ron11/Desktop/프로그래밍연습/mock_libs/byte-buddy-agent-1.10.18.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ron11/Desktop/프로그래밍연습/mock_libs/mockito-core-3.6.28.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ron11/Desktop/프로그래밍연습/mock_libs/objenesis-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ron11/Desktop/프로그래밍연습/mock_libs/opentest4j-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
